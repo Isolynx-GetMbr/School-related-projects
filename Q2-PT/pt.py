@@ -5,7 +5,7 @@
 a1, a2 = 60, 7
 b1, b2 = 1, 40
 
-ares = a1 + a2
+ares = a1 + a2 # both ares and bres holds the operands which is the result of the computation itself
 bres = b1 + b2
 
 print(ares) # 67
