@@ -39,8 +39,8 @@ print(fres) # 283,000
 g1, g2 = 670, 10
 h1, h2 = 22, 2
 
-gres = g1 \ g2
-hres = h1 \ h2
+gres = g1 / g2
+hres = h1 / h2
 
 print(gres) # 67
 print(hres) # 11
