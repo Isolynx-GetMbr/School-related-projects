@@ -28,8 +28,8 @@ print(dres) # 41
 e1, e2 = 42, 33
 f1, f2 = 910, 300
 
-eres = e1 + e2
-fres = f1 + f2
+eres = e1 * e2
+fres = f1 * f2
 
 print(eres) # 1386
 print(fres) # 283,000
@@ -39,8 +39,8 @@ print(fres) # 283,000
 g1, g2 = 670, 10
 h1, h2 = 22, 2
 
-gres = g1 + g2
-hres = h1 + h2
+gres = g1 \ g2
+hres = h1 \ h2
 
 print(gres) # 67
 print(hres) # 11
